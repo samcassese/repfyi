@@ -66,11 +66,42 @@ h3 {
 h3 a {
     text-decoration: none;
     color: #e3e3e3;
-    border: 2px red dotted;
 }
 
 h4 {
     font-size: 21px; 
+    text-align: center;
+    color: #e3e3e3;
+}
+
+.footercontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    align-items: flex-end;
+    background-color: #233142;
+    padding: 10px;
+}
+
+footer li {
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer li a {
+    text-decoration: none;
+    color: #f95959
+}
+
+.footercontent {
+    display: flex;
+}
+
+.quickoverview li {
     text-align: center;
     color: #e3e3e3;
 }
