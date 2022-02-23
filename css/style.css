@@ -105,3 +105,17 @@ footer li a {
     text-align: center;
     color: #e3e3e3;
 }
+
+em a {
+    text-decoration: none;
+    color: #e3e3e3;
+}
+
+.repninjaparent {
+    display: flex;
+    justify-content: center;
+}
+
+#repninjaiframe {
+    display: flex;
+}
