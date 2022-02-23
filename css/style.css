@@ -114,8 +114,10 @@ em a {
 .repninjaparent {
     display: flex;
     justify-content: center;
+    margin: 55px;
 }
 
 #repninjaiframe {
     display: flex;
+    border: none;
 }
