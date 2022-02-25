@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 .topnav {
@@ -120,4 +121,9 @@ em a {
 #repninjaiframe {
     display: flex;
     border: none;
+}
+
+.resource-option {
+    margin-top: 34px;
+    margin-bottom: 34px;
 }
