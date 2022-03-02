@@ -127,3 +127,42 @@ em a {
     margin-top: 34px;
     margin-bottom: 34px;
 }
+
+.blogpost {
+    border: #e3e3e3 2px double;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.blogpost h3 {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.blogpost h4 {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    color: #f95959;
+}
+
+.blogpost p {
+    display: flex;
+    justify-content: flex-end;
+    color: #e3e3e3;
+    align-items: center;
+    padding: 5px;
+}
+
+.descriptioncontainer {
+    /* border: red 2px dotted; */
+    display: flex;
+    margin-left: auto;
+}
+
+#blogh2 {
+    margin-bottom: 55px;
+}
